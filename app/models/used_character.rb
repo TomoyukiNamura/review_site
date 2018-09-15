@@ -1,0 +1,2 @@
+class UsedCharacter < ApplicationRecord
+end

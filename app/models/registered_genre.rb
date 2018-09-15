@@ -1,0 +1,2 @@
+class RegisteredGenre < ApplicationRecord
+end
